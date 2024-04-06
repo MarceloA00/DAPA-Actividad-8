@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DAPA Activdad 8</string>
+
+    <string name="product1">Meta Quest 3</string>
+    <string name="product1price">Price: $13,457.61</string>
+    <string name="product1desc">Meta Quest 3 is a virtual reality (VR) headset developed by Reality Labs, a division of Meta Platforms. It was unveiled on June 1, 2023, and released on October 10 as a successor to the Quest 2.</string>
+    <string name="button1link">https://a.co/d/aIkChsm</string>
+
+    <string name="product2">Samsung Galaxy Watch 5</string>
+    <string name="product2price">Price: $2,999.00</string>
+    <string name="product2desc">The Samsung Galaxy Watch 5 is a series of Wear OS-based smartwatches developed by Samsung Electronics.</string>
+    <string name="button2link">https://www.liverpool.com.mx/tienda/pdp/smartwatch-samsung-galaxy-watch-5-unisex/1150656105?skuid=1150656105</string>
+
+    <string name="product3">NVIDIA GeForce RTX 4090</string>
+    <string name="product3price">Price: $37,409.00</string>
+    <string name="product3desc">The NVIDIA GeForce RTX 4090 is the ultimate GeForce GPU. It brings an enormous leap in performance, efficiency, and AI-powered graphics.</string>
+    <string name="button3link">https://pcel.com/Gigabyte-GV-N4090WF3V2-24GD-Tarjeta-de-Video-Gigabyte-NVIDIA-GeForce-RTX-4090-WINDFORCE-V2-24GB-GDDR6X-1xHDMI-3xDisplayPort-PCI-Express-x16-4-0-501450?filter_name=4090</string>
+
+    <string name="product4">Nintendo Switch OLED</string>
+    <string name="product4price">Price: $6,490.00</string>
+    <string name="product4desc">The Nintendo Switch is a video game console developed by Nintendo and released worldwide in most regions on March 3, 2017.</string>
+    <string name="button4link">https://www.soriana.com/consola-nintendo-switch-oled-neon/11619323.html</string>
+
+    <string name="product5">PlayStation 5 Slim Digital 1TB</string>
+    <string name="product5price">Price: $8,969.00</string>
+    <string name="product5desc">The PlayStation 5 (PS5) is a home video game console developed by Sony Interactive Entertainment.The PlayStation 5\'s main hardware features include a solid-state drive customized for high-speed data streaming to enable significant improvements in storage performance, an AMD GPU capable of 4K resolution display at up to 120 frames per second, hardware-accelerated ray tracing for realistic lighting and reflections, and the Tempest Engine for hardware-accelerated 3D audio effects.</string>
+    <string name="button5link">https://www.walmart.com.mx/ip/playstation-5/consola-playstation-5-slim-digital-1tb/00071171957986?from=/search</string>
+
+    <string name="buyButton">Buy</string>
+</resources>
